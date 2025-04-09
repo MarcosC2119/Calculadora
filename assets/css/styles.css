@@ -59,3 +59,6 @@ body {
     display: flex;
     justify-content: left;
 }
+#clear{
+    background-color: rgb(231, 25, 25);
+}
