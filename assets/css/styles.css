@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-                url('/assets/img/calculadora.jpeg');
+    background: linear-gradient(rgba(0, 0, 0, 0.0), rgb(0, 0, 0)), 
+                url('/assets/img/logo_calculadora.png');
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -37,7 +37,7 @@ body {
 }
 
 .button {
-    background-color: #007bff;
+    background-color: #0078BB;
     border: none;
     border-radius: 5px;
     color: white;
@@ -64,4 +64,7 @@ body {
 }
 #clear{
     background-color: rgb(231, 25, 25);
+}
+#equals{
+    background-color: #FDC300;
 }
